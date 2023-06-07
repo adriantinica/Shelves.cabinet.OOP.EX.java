@@ -1,4 +1,6 @@
-
+/*
+*  https://github.com/dorinesinenco/EDUQATION/blob/master/programming/java/oop/inheritance/shelves.cabinet.STEP1.ro.md
+*/
 import skeleton.Thing;
 import skeleton.Cabinet;
 import things.Book;
